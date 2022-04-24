@@ -145,4 +145,3 @@ _BYTE *__fastcall sub_14615E05C(__int64 a1, _BYTE *a2)
   return a2;
 }
 ```
-Credit to @Theo.#1337 x)
