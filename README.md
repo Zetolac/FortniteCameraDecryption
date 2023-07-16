@@ -1,2 +1,2 @@
 # FortniteCameraDecryption
-# join: https://discord.gg/K9ZeH7EH4f
+# join: https://discord.gg/NKwcZ2fx
